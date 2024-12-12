@@ -139,4 +139,4 @@ Password		| Varchar
 ### Demo
 * Install MariaDB and follow the steps given in [this](https://github.com/git-akshat/Library-Management/blob/master/Database_Query/bookDB.txt) file.
 * Now download this project and go to [dist folder](https://github.com/git-akshat/Library-Management/tree/master/dist)
-* Double click on LibraryManagement.jar and here you go :)
+* Double click on LibraryManagement.jar and here you go

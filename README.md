@@ -3,7 +3,7 @@
 
 #### The objective of this project is to learn Swing and jdbc.
 
-### The Library Management system provides following functionalities:
+### The Library Management system provides following functionalities
 
 * Login
 * Add a book

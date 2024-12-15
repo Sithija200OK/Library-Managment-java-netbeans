@@ -1,5 +1,5 @@
 # Library-Managment-java-netbeans.
-## Library Management System
+## Library Management System.
 
 #### The objective of this project is to learn Swing and jdbc.
 
